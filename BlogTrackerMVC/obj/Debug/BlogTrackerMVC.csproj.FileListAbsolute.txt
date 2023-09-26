@@ -77,3 +77,11 @@ D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\obj\Debug\BlogTrackerM
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\obj\Debug\BlogTrackerMVC.csproj.CopyComplete
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\obj\Debug\BlogTrackerMVC.dll
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\obj\Debug\BlogTrackerMVC.pdb
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\NUnit3.TestAdapter.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\NUnit3.TestAdapter.pdb
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\nunit.engine.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\nunit.engine.api.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\nunit.engine.core.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\testcentric.engine.metadata.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\nunit.framework.dll
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerMVC\bin\nunit.framework.xml

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fuwPMpA/WHDZv80kwRzSq/t8jheZrH8RmNC+u3wq4QcOwk8l03sZQl3K6dGSZKUJh8IBc4j5xlc6O82nDc9Yeg==",
+  "dgSpecHash": "uPIPLUXoCeNElbb1HwNkRxvPTwynQ+2FayjANhQxFJpUAkYlSEZfZaaYT6NUQpNhCxRFIpKd3j/O0DAVT5WYfA==",
   "success": true,
   "projectFilePath": "D:\\Raven\\PracticeExercise\\Phase03\\CapStone\\BlogTrackerWebApi\\BlogTrackerWebApi.csproj",
   "expectedPackageFiles": [
@@ -109,6 +109,7 @@
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.16\\microsoft.visualstudio.web.codegeneration.6.0.16.nupkg.sha512",
     "C:\\Users\\Rav3n\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.16\\microsoft.visualstudio.web.codegeneration.core.6.0.16.nupkg.sha512",

@@ -272,3 +272,4 @@ D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\bin\Debug\net6.0\pa
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
 D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\bin\Debug\net6.0\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\bin\Debug\net6.0\packages\Microsoft.TestPlatform.TestHost.17.7.2\lib\netcoreapp3.1\testhost.deps.json

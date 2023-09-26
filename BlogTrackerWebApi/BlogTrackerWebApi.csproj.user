@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>BlogTrackerWebApi.Models.BlogTrackerContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>D:\Raven\PracticeExercise\Phase03\CapStone\BlogTrackerWebApi\Properties\PublishProfiles\registry.hub.docker.com_raven22.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
