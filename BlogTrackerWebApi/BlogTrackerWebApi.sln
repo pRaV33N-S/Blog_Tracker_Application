@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTrackerWebApi", "BlogTrackerWebApi.csproj", "{DEF27A7F-5DD2-4F29-9EB4-87C2599A1B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTrackerMVC", "..\BlogTrackerMVC\BlogTrackerMVC.csproj", "{CA09E594-FE93-412A-897A-9709CD8023EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF27A7F-5DD2-4F29-9EB4-87C2599A1B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF27A7F-5DD2-4F29-9EB4-87C2599A1B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF27A7F-5DD2-4F29-9EB4-87C2599A1B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF27A7F-5DD2-4F29-9EB4-87C2599A1B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA09E594-FE93-412A-897A-9709CD8023EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA09E594-FE93-412A-897A-9709CD8023EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA09E594-FE93-412A-897A-9709CD8023EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA09E594-FE93-412A-897A-9709CD8023EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A801426-558D-4933-ABB2-1177C11D1678}
+	EndGlobalSection
+EndGlobal

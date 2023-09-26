@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PMHQH10TBgb88YanqvT0TX3mIZYabZEMM2uxdm1qWAQ=",
+  "Source": "BlogTrackerWebApi",
+  "BasePath": "_content/BlogTrackerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
